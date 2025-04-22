@@ -1,5 +1,5 @@
 # Installation
->#1 Clone the repository:https://github.com/KTZN/ECommerce.git
+>#1 Clone the repository:https://github.com/KTZN/ShoppingCartApi.git
 >#2 Configure the database connection in appsettings.json:
 
 "ConnectionStrings": {
